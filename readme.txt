@@ -1,0 +1,10 @@
+该程序是httpserver的后端原理应用
+application用于接收处理http具体的请求
+server中sittings为配置文件
+
+并发模型使用多线程
+后端交互使用IO多路复用
+
+1.运行webFrame
+2.运行httpserver
+3.浏览器中输入ADDR即可交互
